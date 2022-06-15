@@ -40,7 +40,7 @@ Ejemplo de pagina web con materialize CSS
                 <div class="row">
                     <div class="col s2">
                       
-                    </div>
+                    
             
           </div>
 
