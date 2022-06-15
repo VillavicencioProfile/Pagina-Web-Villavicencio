@@ -17,6 +17,11 @@ Ejemplo de pagina web con materialize CSS
 
 </head>
 <body>
+  <div class="container">
+    <h1 class="purple lighten-4">BIENVENIDOS A MI PRIMERA PAGINA WEB DISEÑADA CON MATERIALIZE</h1>
+    <h2 class="red lighten-3">Mi nombre es Hector Villavicencio Molina</h2>
+    <h3 class="green-text text darken-3"> Ingresar </h2>
+</div>
   
     <div class="container">
         <blockquote>
@@ -34,7 +39,7 @@ Ejemplo de pagina web con materialize CSS
                 </div>
                 <div class="row">
                     <div class="col s2">
-                      <img class="responsive-img circle " src="https://www.optical.pe/blog/wp-content/uploads/2019/10/ON-TECNOLOGIAS-INALAMBRICAS1-1-768x402.jpg">
+                      <img class="responsive-img circle " src="http://itmilpaalta.edu.mx/registro/imagenes/tecnm.jpg>
                     </div>
             
           </div>
@@ -45,4 +50,3 @@ Ejemplo de pagina web con materialize CSS
 
 </body>
 </html>
-    
