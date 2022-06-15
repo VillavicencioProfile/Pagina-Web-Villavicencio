@@ -17,11 +17,20 @@ Ejemplo de pagina web con materialize CSS
 
 </head>
 <body>
+  
+  <div class="container">
+    <button class="btn">Ingresar</button>
+    <a href="#" class="btn">MENU</a>
+    <button class="btn-flat red">Iniciar</button>
+  </div>
+  
+  
+  
   <div class="container">
     <h1 class="purple lighten-4">BIENVENIDOS A MI PRIMERA PAGINA WEB DISEÑADA CON MATERIALIZE</h1>
     <h2 class="red lighten-3">Mi nombre es Hector Villavicencio Molina</h2>
     <h3 class="green-text text darken-3"> Ingresar </h2>
-</div>
+  </div>
   
     <div class="container">
         <blockquote>
@@ -40,7 +49,7 @@ Ejemplo de pagina web con materialize CSS
                 <div class="row">
                     <div class="col s2">
                       
-                    
+                    </div>
             
           </div>
 
@@ -50,4 +59,5 @@ Ejemplo de pagina web con materialize CSS
 
 </body>
 </html>
+    
                                                                                                 
