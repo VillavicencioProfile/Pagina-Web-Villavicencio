@@ -39,7 +39,7 @@ Ejemplo de pagina web con materialize CSS
                 </div>
                 <div class="row">
                     <div class="col s2">
-                      <img class="responsive-img circle " src="http://itmilpaalta.edu.mx/registro/imagenes/tecnm.jpg>
+                      
                     </div>
             
           </div>
