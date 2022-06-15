@@ -7,7 +7,7 @@ Ejemplo de pagina web con materialize CSS
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BOTONES</title>
+    <title>Document</title>
 
     <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -19,34 +19,25 @@ Ejemplo de pagina web con materialize CSS
 <body>
   
     <div class="container">
-        
-        <div class="section">
-            <button class="btn">Ingresar</button>
-            <a href="#" class="btn">MENU</a>
-            <button class="btn-flat red">Iniciar</button>
-
-            <div class="section">
-                <button class="btn green">Ingresar</button>
-            <a href="#" class="btn black">MENU</a>
-
+        <blockquote>
+            Bienvenidos a mi primera pagian web diseñada con materialize 
+          </blockquote>
+          <p class="flow-text" >POR FAVOR INGRESE LOS DATOS CORRESPONDIENTES QUE SE LE SOLICITEN:</p>
+          <h3 class="z-depth-4 section"> ¿SUS DATOS SON CORRECTOS?</h3>
+          <div class="row">
+              <div class="col s3">
+                <img class="responsive-img" src="https://www.optical.pe/blog/wp-content/uploads/2019/10/ON-TECNOLOGIAS-INALAMBRICAS1-1-768x402.jpg">
+              </div>
+              <div class="row">
+                <div class="col s6">
+                  <img class="responsive-img" src="https://www.optical.pe/blog/wp-content/uploads/2019/10/ON-TECNOLOGIAS-INALAMBRICAS1-1-768x402.jpg">
+                </div>
+                <div class="row">
+                    <div class="col s2">
+                      <img class="responsive-img circle " src="https://www.optical.pe/blog/wp-content/uploads/2019/10/ON-TECNOLOGIAS-INALAMBRICAS1-1-768x402.jpg">
+                    </div>
             
-            <div class="section">
-                <button class="btn-large waves-effect waves-red indigo lighten-1">
-                    <i class ="material-icons></i>
-                    Ingresar
-                
-                </button>
-            <a href="#" class="btn-small orange lighten-1">MENU</a>
-
-            <div class="section">
-                <button class="btn-large waves-effect waves-red indigo lighten-1">Ingresar</button>
-            <a href="#" class="btn-small orange lighten-1">MENU</a>
-            
-
-
-
-            </div>
-        </div>
+          </div>
 
     </div>
     <!-- Compiled and minified JavaScript -->
@@ -54,3 +45,4 @@ Ejemplo de pagina web con materialize CSS
 
 </body>
 </html>
+    
