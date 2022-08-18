@@ -1,12 +1,5 @@
 # Pagina-Web-Villavicencio
-CONCEPTOS GESTION DE PROYECTOS DE SOFTWARE
 
-INTEGRANTES DEL EQUIPO:
--VILLAVICENCIO MOLINA HECTOR.
--CASTRO GALINDO RODRIGO.
--GARCIA GONZALEZ ARLETH.
--CABELLO MARTINEZ ALAN.
--ALVIRDE MARIA DE JESUS.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -34,8 +27,17 @@ INTEGRANTES DEL EQUIPO:
   
   
   <div class="container">
-    <h1 class="purple lighten-4">BIENVENIDOS A MI PRIMERA PAGINA WEB DISEÑADA CON MATERIALIZE</h1>
-    <h2 class="red lighten-3">Mi nombre es Hector Villavicencio Molina</h2>
+    <h1 class="purple lighten-4">CONCEPTOS GESTION DE PROYECTOS DE SOFTWARE
+
+  INTEGRANTES DEL EQUIPO:
+  -VILLAVICENCIO MOLINA HECTOR.
+  -CASTRO GALINDO RODRIGO.
+  -GARCIA GONZALEZ ARLETH.
+  -CABELLO MARTINEZ ALAN.
+  -ALVIRDE MARIA DE JESUS.</h1>
+      
+    <h2 class="red lighten-3">TEMA 1 PLAN DE CALIDAD DE SOFTWARE</h2>
+      
     <h3 class="green-text text darken-3"> Ingresar </h2>
   </div>
   
